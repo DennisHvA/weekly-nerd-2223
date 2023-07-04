@@ -7,7 +7,6 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 - Kennismaken met het beroepenveld
 - Oriënteren op het vakgebied
 - Vakgerelateerde artikelen leren schrijven
-[Lees hier meer over het schrijven van artikelen](#5-artikelen)
 
 ### Programma
 
