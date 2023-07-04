@@ -16,7 +16,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 | Week 2  | Deanna Bosschert    | 22 februari / 16:00 - 17:00 | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-2)                               |
 | Week 3  | Chazz Mannering     | 15 maart / 16:00 - 17:00    | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-3)                               |
 | Week 4  | Cyd Stumpel         | 22 maart / 16:00 - 17:00    | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-4)                               |
-| Week 5  | Aaron Gustafson     | 30 maart                    | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-5)                               |
+| Week 5  | Aaron Gustafson     | 30 maart / 18:00 - 19:00    | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-5)                               |
 | Week 6  | Niels Leenheer      | 12 april 16:00 - 17:00      | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-6)                               |
 | Week 7  | Hidde de Vries      | 19 april 16:00 - 17:00      | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-7)                               |
 | Week 8  | Level30Wizards      | 26 april 16:00 - 17:00      | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-8)                               |
