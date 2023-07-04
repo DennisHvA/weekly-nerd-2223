@@ -24,7 +24,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 | Week 9  | NXT Museum          | 15 mei / vanaf 13:00        | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-9)                               |
 | Week 10 | Brian Buwuah        | 22 mei / 16:00 - 17:00      | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-10)                              |
 | Week 11 | Chanel Mepschen     | 31 mei / 16:00 - 17:00      | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-11)                              |
-| Week 12 | Pre CSS day         | 7 juni / 16:00 - 17:00      | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-
+| Week 12 | Pre CSS day         | 7 juni / 16:00 - 17:00      | [Aantekeningen](https://github.com/DennisHvA/weekly-nerd-2223/wiki/Week-12)
 
 
 ### Artikelen
