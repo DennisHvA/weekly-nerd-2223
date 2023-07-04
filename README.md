@@ -70,6 +70,14 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
         <td>Brian Buwuah</td>
         <td>22 mei / 16:00 - 17:00</td>
     </tr>
+    <tr>
+        <td>Chanel Mepschen</td>
+        <td>31 mei / 16:00 - 17:00</td>
+    </tr>
+    <tr>
+        <td>Pre CSS day</td>
+        <td>7 juni / 16:00 - 17:00</td>
+    </tr>
 </table>
 
 
